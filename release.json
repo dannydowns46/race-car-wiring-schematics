@@ -1,0 +1,76 @@
+{
+  "revision": "J",
+  "release_id": "2026-10-26",
+  "release_date": "2026-10-26",
+  "engineering_design_date": "2026-10-25",
+  "audience": "public",
+  "counts": {
+    "sheets": 19,
+    "components": 95,
+    "nets": 115,
+    "full_paths": 284,
+    "power_paths": 145
+  },
+  "changes": [
+    "U3 Cole Hersee24059 and local D60 suppression",
+    "S2 removed; R3 C5/SPI1 spare/unconnected"
+  ],
+  "files": [
+    {
+      "name": "Existing_Loom_And_Cable_Paths.tsv",
+      "bytes": 31929,
+      "sha256": "9d294248b6bc460fac6303aa59ef1a34004dff35c45338fbb4781581959cc171"
+    },
+    {
+      "name": "Other_Connection_References.tsv",
+      "bytes": 6122,
+      "sha256": "f33d8efbce842b518964912608dca8dc27c0aa20d57d73f78f432787bce6ef13"
+    },
+    {
+      "name": "Race_Car_Current_Project_RevJ_2026-10-26.zip",
+      "bytes": 23968894,
+      "sha256": "186293b703507b9e142234f94decbde778de587294cca0a374b5c579595cfd49"
+    },
+    {
+      "name": "Race_Car_RevJ.pdf",
+      "bytes": 3189034,
+      "sha256": "aa3e620bc21ff7b6b449e0de42fca7444180a7d33785cc835eb287b63ad8904c"
+    },
+    {
+      "name": "Race_Car_RevJ_Continuous_Wiring.pdf",
+      "bytes": 144986,
+      "sha256": "b8f6b57e80234af02f2d94ab1a457459a4ea6c7ed5b86fae88da615ae43922c5"
+    },
+    {
+      "name": "Race_Car_RevJ_Flagged.pdf",
+      "bytes": 3189034,
+      "sha256": "aa3e620bc21ff7b6b449e0de42fca7444180a7d33785cc835eb287b63ad8904c"
+    },
+    {
+      "name": "Race_Car_RevJ_Interactive.html",
+      "bytes": 15771536,
+      "sha256": "91b0ec21eba5fa19d12cf74289b42078d2b53e18cbb0b4f0c44de1568d45cc9a"
+    },
+    {
+      "name": "Race_Car_RevJ_Interactive_Viewer.zip",
+      "bytes": 1433741,
+      "sha256": "d9dcbff58de6cf0da9c41f1cf94d51f6056942dc8ef64c9fb2ff75825fe16935"
+    },
+    {
+      "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
+      "bytes": 71234,
+      "sha256": "858765cbb09c7382d4317fda827450bc91a1e40e0fb87beb4740b9cec36cfb50"
+    },
+    {
+      "name": "Supplied_Leads_To_Finish.tsv",
+      "bytes": 38044,
+      "sha256": "0fc950c8abb3ecd1b91411524b0642c16d31ba692cc627cb777226e0e1f7601d"
+    },
+    {
+      "name": "Wires_To_Provide.tsv",
+      "bytes": 31684,
+      "sha256": "bd20071017319040113c0b71a16c5445db7dabf15bf5c076efdf46fa8c49a2d0"
+    }
+  ],
+  "verification": "Current native/physical/viewer validators passed; package CRC and per-file SHA256 checked. Hardware/NSP tests remain open."
+}
