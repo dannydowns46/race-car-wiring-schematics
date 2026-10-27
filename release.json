@@ -1,19 +1,19 @@
 {
   "revision": "J",
-  "release_id": "2026-10-26",
-  "release_date": "2026-10-26",
-  "engineering_design_date": "2026-10-25",
+  "release_id": "2026-10-27",
+  "release_date": "2026-10-27",
+  "engineering_design_date": "2026-10-27",
   "audience": "public",
   "counts": {
     "sheets": 19,
-    "components": 95,
-    "nets": 115,
-    "full_paths": 284,
+    "components": 96,
+    "nets": 116,
+    "full_paths": 287,
     "power_paths": 145
   },
   "changes": [
     "U3 Cole Hersee24059 and local D60 suppression",
-    "S2 removed; R3 C5/SPI1 spare/unconnected"
+    "S50 HT-010504 TC level selector on R3 C5/SPI1; pull-up OFF; S2 remains removed"
   ],
   "files": [
     {
@@ -27,49 +27,49 @@
       "sha256": "f33d8efbce842b518964912608dca8dc27c0aa20d57d73f78f432787bce6ef13"
     },
     {
-      "name": "Race_Car_Current_Project_RevJ_2026-10-26.zip",
-      "bytes": 23968894,
-      "sha256": "186293b703507b9e142234f94decbde778de587294cca0a374b5c579595cfd49"
+      "name": "Race_Car_Current_Project_RevJ_2026-10-27.zip",
+      "bytes": 24074719,
+      "sha256": "24fd3c11d37280eaf95f39d77695eec631e1bf1add81fac788f5be388e319c65"
     },
     {
       "name": "Race_Car_RevJ.pdf",
-      "bytes": 3189034,
-      "sha256": "aa3e620bc21ff7b6b449e0de42fca7444180a7d33785cc835eb287b63ad8904c"
+      "bytes": 3191903,
+      "sha256": "b7f1ef5f931e273a4ad42db95dde2e38cffc9018a50851b1537519da2380cf92"
     },
     {
       "name": "Race_Car_RevJ_Continuous_Wiring.pdf",
-      "bytes": 144986,
-      "sha256": "b8f6b57e80234af02f2d94ab1a457459a4ea6c7ed5b86fae88da615ae43922c5"
+      "bytes": 145960,
+      "sha256": "909e73fe714d1c318d44f97ae426483e69d3d5e74ba043063a4bdd0d9637d5e6"
     },
     {
       "name": "Race_Car_RevJ_Flagged.pdf",
-      "bytes": 3189034,
-      "sha256": "aa3e620bc21ff7b6b449e0de42fca7444180a7d33785cc835eb287b63ad8904c"
+      "bytes": 3191903,
+      "sha256": "b7f1ef5f931e273a4ad42db95dde2e38cffc9018a50851b1537519da2380cf92"
     },
     {
       "name": "Race_Car_RevJ_Interactive.html",
-      "bytes": 15771536,
-      "sha256": "91b0ec21eba5fa19d12cf74289b42078d2b53e18cbb0b4f0c44de1568d45cc9a"
+      "bytes": 15814656,
+      "sha256": "a7d55a1c15571b94abb7e1c668c94d75be67e6fd95a501551ac19404d7588d6b"
     },
     {
       "name": "Race_Car_RevJ_Interactive_Viewer.zip",
-      "bytes": 1433741,
-      "sha256": "d9dcbff58de6cf0da9c41f1cf94d51f6056942dc8ef64c9fb2ff75825fe16935"
+      "bytes": 1438060,
+      "sha256": "e335cf409397ec9f0cdb14329191db2d90686cb7090455876026ca94928b7b76"
     },
     {
       "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
-      "bytes": 71234,
-      "sha256": "858765cbb09c7382d4317fda827450bc91a1e40e0fb87beb4740b9cec36cfb50"
+      "bytes": 71249,
+      "sha256": "2cfd518e2513bb08dd0f0d8efb304422281f9f62c4632fdf473d208719a9b369"
     },
     {
       "name": "Supplied_Leads_To_Finish.tsv",
-      "bytes": 38044,
-      "sha256": "0fc950c8abb3ecd1b91411524b0642c16d31ba692cc627cb777226e0e1f7601d"
+      "bytes": 38414,
+      "sha256": "032a2425204f6f0af1bb974063c54def193156be83c5bbaad1bb2e211291a964"
     },
     {
       "name": "Wires_To_Provide.tsv",
-      "bytes": 31684,
-      "sha256": "bd20071017319040113c0b71a16c5445db7dabf15bf5c076efdf46fa8c49a2d0"
+      "bytes": 32416,
+      "sha256": "9b6fca371c1cdfdf2ef6ecc5b07b5e2396308308c4325debc3ed2d28f27aa67c"
     }
   ],
   "verification": "Current native/physical/viewer validators passed; package CRC and per-file SHA256 checked. Hardware/NSP tests remain open."
