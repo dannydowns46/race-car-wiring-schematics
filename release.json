@@ -1,6 +1,6 @@
 {
   "revision": "J",
-  "release_id": "2026-11-13",
+  "release_id": "2026-11-13-2",
   "release_date": "2026-11-13",
   "engineering_design_date": "2026-11-13",
   "audience": "public",
@@ -30,39 +30,39 @@
       "sha256": "4ed0a448ca11581df50feda6c8cc93957cd16dcee100d3f3374ed5fb3bb4384e"
     },
     {
-      "name": "Race_Car_Current_Project_RevJ_2026-11-13.zip",
-      "bytes": 24534503,
-      "sha256": "ca58daf0d1b6fd7bdfc1692924a4c36bd5599ce6b823488902a041b1a110fa0d"
+      "name": "Race_Car_Current_Project_RevJ_2026-11-13-2.zip",
+      "bytes": 24528575,
+      "sha256": "878b9ad7addb6fbdb45880d9be5f94fe038f4d8db91f57ce02e43e280085ac83"
     },
     {
       "name": "Race_Car_RevJ.pdf",
       "bytes": 3191903,
-      "sha256": "e7d3dd0d5ede01c0d651e62cb2204db5d41f25a21ffa7d5612a7c11ae7241c10"
+      "sha256": "29dad176ee26a285cf92834237572adf4bc4b039e4bf3abc1634c9a91dbfa026"
     },
     {
       "name": "Race_Car_RevJ_Continuous_Wiring.pdf",
-      "bytes": 155310,
-      "sha256": "e72337b120fa51ad1e1d9a6b225fdeade49142c3ac2fe08f47915a379611b4b2"
+      "bytes": 155341,
+      "sha256": "b95f9eaaa3562cf1dc7a450f1529c0bcba17c1f2e12e4d33f4e7990e0ff6dc73"
     },
     {
       "name": "Race_Car_RevJ_Flagged.pdf",
       "bytes": 3191903,
-      "sha256": "e7d3dd0d5ede01c0d651e62cb2204db5d41f25a21ffa7d5612a7c11ae7241c10"
+      "sha256": "29dad176ee26a285cf92834237572adf4bc4b039e4bf3abc1634c9a91dbfa026"
     },
     {
       "name": "Race_Car_RevJ_Interactive.html",
-      "bytes": 18133047,
-      "sha256": "fca09118c1fc7f74965e80c5a41b57818b8aa2ff3891221e45834dd9c8b31a88"
+      "bytes": 18133447,
+      "sha256": "ba20db91938628270a3744d976bba45652e1e8c815883e574572fc69c68fb716"
     },
     {
       "name": "Race_Car_RevJ_Interactive_Viewer.zip",
-      "bytes": 1646727,
-      "sha256": "d5f9aefc8e13335c2c68a0cd9a0079fd47532a7c5fc2aa56da7e69b3fa7de1ca"
+      "bytes": 1644206,
+      "sha256": "f409675ac12a1be1392eb688de8c9c954ebf31750401e4da0a2f343a4320381b"
     },
     {
       "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
-      "bytes": 73434,
-      "sha256": "840f0fd89129c5f6d054dafb293bdd14b99cbf5d0cbcaa6e4dab9c26f8268266"
+      "bytes": 73412,
+      "sha256": "44f3b932bec40a9104675925a4b420edddc24005ae6bfe76f6303adfa2ff62d1"
     },
     {
       "name": "Splice_Connections.tsv",
