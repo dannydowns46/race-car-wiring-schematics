@@ -1,6 +1,6 @@
 {
   "revision": "J",
-  "release_id": "2026-11-13-2",
+  "release_id": "2026-11-13-3",
   "release_date": "2026-11-13",
   "engineering_design_date": "2026-11-13",
   "audience": "public",
@@ -12,6 +12,8 @@
     "power_paths": 146
   },
   "changes": [
+    "Birds-eye vehicle layout with selectable main tunnel trunk and12 loom groups; circuit layout retained",
+    "Same301 physical records and116 native nets in both layouts",
     "Haltech R3/PD16 flying-lead tags and filters",
     "172 separate gauge annotations; actual materials remain unverified",
     "Four-total-end custom joints with 14 explicit linking conductors; original electrical nets retained",
@@ -30,9 +32,9 @@
       "sha256": "4ed0a448ca11581df50feda6c8cc93957cd16dcee100d3f3374ed5fb3bb4384e"
     },
     {
-      "name": "Race_Car_Current_Project_RevJ_2026-11-13-2.zip",
-      "bytes": 24528575,
-      "sha256": "878b9ad7addb6fbdb45880d9be5f94fe038f4d8db91f57ce02e43e280085ac83"
+      "name": "Race_Car_Current_Project_RevJ_2026-11-13-3.zip",
+      "bytes": 24841790,
+      "sha256": "6e898ef437f7c2cdcbe45d3e99ed838af3dab92eccf62815a34c4548fa04be76"
     },
     {
       "name": "Race_Car_RevJ.pdf",
@@ -51,13 +53,13 @@
     },
     {
       "name": "Race_Car_RevJ_Interactive.html",
-      "bytes": 18133447,
-      "sha256": "ba20db91938628270a3744d976bba45652e1e8c815883e574572fc69c68fb716"
+      "bytes": 19227361,
+      "sha256": "d3b00088e5fd545bdf0ff655eac12525d5f8f74b5359e54b181e5fb731c3d1ae"
     },
     {
       "name": "Race_Car_RevJ_Interactive_Viewer.zip",
-      "bytes": 1644206,
-      "sha256": "f409675ac12a1be1392eb688de8c9c954ebf31750401e4da0a2f343a4320381b"
+      "bytes": 1774239,
+      "sha256": "b06e39b64ce0663b1a2c21690e3cf271e9b90845b633b6987be26ae8a073c0cc"
     },
     {
       "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
