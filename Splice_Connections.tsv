@@ -1,0 +1,113 @@
+Joint	Net	Total_wire_ends	Wire	Other_end	Recommended_AWG	Gauge_status	Nominal_total_mm2	Tool_status	Proposed_location
+SP026	W026	4	C037	J10/11	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics CAN-return joint for R3, PD16 and proposed TPMS receiver. Never bond to chassis.
+SP026	W026	4	C040	J40/22	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics CAN-return joint for R3, PD16 and proposed TPMS receiver. Never bond to chassis.
+SP026	W026	4	C041	U23/6	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics CAN-return joint for R3, PD16 and proposed TPMS receiver. Never bond to chassis.
+SP026	W026	4	C218	SP026-D	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics CAN-return joint for R3, PD16 and proposed TPMS receiver. Never bond to chassis.
+SP032	W032	4	C045	J10/22	20	MFR_BASELINE	2.071	QUALIFICATION REQUIRED	Rear electronics switched-supply split for proposed nearby TPMS receiver and forward tunnel branches to dash/keypad. Exact supplied bundled leads and routing remain to inspect.
+SP032	W032	4	C046	U10/3	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics switched-supply split for proposed nearby TPMS receiver and forward tunnel branches to dash/keypad. Exact supplied bundled leads and routing remain to inspect.
+SP032	W032	4	C047	U11/PWR	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics switched-supply split for proposed nearby TPMS receiver and forward tunnel branches to dash/keypad. Exact supplied bundled leads and routing remain to inspect.
+SP032	W032	4	C048	U23/5	20	PROPOSED	2.071	QUALIFICATION REQUIRED	Rear electronics switched-supply split for proposed nearby TPMS receiver and forward tunnel branches to dash/keypad. Exact supplied bundled leads and routing remain to inspect.
+CAN1-1H	W033	3	C049	J10/23	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-1H	W033	3	C050	CAN1-2H	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-1H	W033	3	C053	U10/1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-2H	W033	3	C050	CAN1-1H	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-2H	W033	3	C051	CAN1-3H	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-2H	W033	3	C054	U11/H	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-3H	W033	3	C051	CAN1-2H	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-3H	W033	3	C052	J40/23	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-3H	W033	3	C055	U23/2	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-1L	W034	3	C056	J10/24	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-1L	W034	3	C057	CAN1-2L	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-1L	W034	3	C060	U10/2	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-2L	W034	3	C057	CAN1-1L	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-2L	W034	3	C058	CAN1-3L	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-2L	W034	3	C061	U11/L	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-3L	W034	3	C058	CAN1-2L	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-3L	W034	3	C059	J40/24	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN1-3L	W034	3	C062	U23/1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN2-ENDH	W057	3	C086	J11/21	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN2-ENDH	W057	3	C087	J22/3	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN2-ENDH	W057	3	C088	J31/H	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN2-ENDL	W058	3	C089	J11/22	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN2-ENDL	W058	3	C090	J22/2	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+CAN2-ENDL	W058	3	C091	J31/L	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Proposed short paired CAN station; preserve existing logical order/termination. Actual supplied connectors and tap lengths need inspection.
+SP061	W061	3	C094	J11/25	22	PROPOSED	0.977	QUALIFICATION REQUIRED	R3 reference split into cockpit and engine branches, near ECU behind driver seat.
+SP061	W061	3	C219	SP061-E1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	R3 reference split into cockpit and engine branches, near ECU behind driver seat.
+SP061	W061	3	C222	SP061-C1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	R3 reference split into cockpit and engine branches, near ECU behind driver seat.
+SP062	W062	4	C104	J11/26	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Isolated R3 return split into cockpit and two engine branches. Coil low-reference destinations remain HOLD; no chassis/engine bond.
+SP062	W062	4	C224	SP062-C1	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Isolated R3 return split into cockpit and two engine branches. Coil low-reference destinations remain HOLD; no chassis/engine bond.
+SP062	W062	4	C226	SP062-E1	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Isolated R3 return split into cockpit and two engine branches. Coil low-reference destinations remain HOLD; no chassis/engine bond.
+SP062	W062	4	C229	SP062-E4	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Isolated R3 return split into cockpit and two engine branches. Coil low-reference destinations remain HOLD; no chassis/engine bond.
+SP070	W070	3	C134	J12/1	12	MFR_BASELINE	7.471	LARGER TOOL/SPLICE REQUIRED	Engine injector-only bank split; retain OEM bank looms and isolate donor coil/feed ties.
+SP070	W070	3	C211	CUT-INJ-ODD-PWR	14	PROPOSED	7.471	LARGER TOOL/SPLICE REQUIRED	Engine injector-only bank split; retain OEM bank looms and isolate donor coil/feed ties.
+SP070	W070	3	C212	CUT-INJ-EVEN-PWR	14	PROPOSED	7.471	LARGER TOOL/SPLICE REQUIRED	Engine injector-only bank split; retain OEM bank looms and isolate donor coil/feed ties.
+SP071	W071	3	C143	J12/2	12	MFR_BASELINE	9.927	LARGER TOOL/SPLICE REQUIRED	Engine coil-bank supply split; retain OEM bank looms.
+SP071	W071	3	C205	X111/H	12	PROPOSED	9.927	LARGER TOOL/SPLICE REQUIRED	Engine coil-bank supply split; retain OEM bank looms.
+SP071	W071	3	C208	X113/H	12	PROPOSED	9.927	LARGER TOOL/SPLICE REQUIRED	Engine coil-bank supply split; retain OEM bank looms.
+SP116	W116	3	C160	J41/3	10	MFR_BASELINE	9.423	LARGER TOOL/SPLICE REQUIRED	Front headlight split before removable left/right light branches.
+SP116	W116	3	C161	H30/+	14	PROPOSED	9.423	LARGER TOOL/SPLICE REQUIRED	Front headlight split before removable left/right light branches.
+SP116	W116	3	C162	H37/+	14	PROPOSED	9.423	LARGER TOOL/SPLICE REQUIRED	Front headlight split before removable left/right light branches.
+SP117	W117	3	C163	H31/+	18	PROPOSED	2.469	QUALIFICATION REQUIRED	Rear tail-light split before removable lighting branch.
+SP117	W117	3	C164	H35/+	18	PROPOSED	2.469	QUALIFICATION REQUIRED	Rear tail-light split before removable lighting branch.
+SP117	W117	3	C165	J40/3	18	MFR_BASELINE	2.469	QUALIFICATION REQUIRED	Rear tail-light split before removable lighting branch.
+SP118	W118	3	C166	H34/+	18	PROPOSED	2.469	QUALIFICATION REQUIRED	Rear brake-light split before removable lighting branch.
+SP118	W118	3	C167	H36/+	18	PROPOSED	2.469	QUALIFICATION REQUIRED	Rear brake-light split before removable lighting branch.
+SP118	W118	3	C168	J40/4	18	MFR_BASELINE	2.469	QUALIFICATION REQUIRED	Rear brake-light split before removable lighting branch.
+SP121	W121	3	C169	J40/7	18	MFR_BASELINE	UNKNOWN	SIZE HOLD	Camera hardwire-kit BATT/ACC split near converter; verify supplied kit permits common switched feed.
+SP121	W121	3	C170	U24/YL		RETAIN_VERIFY	UNKNOWN	SIZE HOLD	Camera hardwire-kit BATT/ACC split near converter; verify supplied kit permits common switched feed.
+SP121	W121	3	C171	U24/RD		RETAIN_VERIFY	UNKNOWN	SIZE HOLD	Camera hardwire-kit BATT/ACC split near converter; verify supplied kit permits common switched feed.
+SP124	W124	3	C174	J40/11	22	PROPOSED	0.977	QUALIFICATION REQUIRED	PD16 isolated sensor-return split behind driver seat, branching to remote engine filter and transaxle temperature sensors.
+SP124	W124	3	C175	B32/A	22	PROPOSED	0.977	QUALIFICATION REQUIRED	PD16 isolated sensor-return split behind driver seat, branching to remote engine filter and transaxle temperature sensors.
+SP124	W124	3	C176	B33/A	22	PROPOSED	0.977	QUALIFICATION REQUIRED	PD16 isolated sensor-return split behind driver seat, branching to remote engine filter and transaxle temperature sensors.
+SP136	W136	2	S028	U2/BLUE_A		RETAIN_VERIFY	UNKNOWN	SIZE HOLD	Local CARTEK supplied blue/blue join near isolator; keep insulated, never grounded.
+SP136	W136	2	S029	U2/BLUE_B		RETAIN_VERIFY	UNKNOWN	SIZE HOLD	Local CARTEK supplied blue/blue join near isolator; keep insulated, never grounded.
+SP026-D	W026	3	C038	U10/4	20	PROPOSED	1.553	QUALIFICATION REQUIRED	Dash CAN-return joint for dash/keypad, connected by one tunnel link.
+SP026-D	W026	3	C039	U11/GND	20	PROPOSED	1.553	QUALIFICATION REQUIRED	Dash CAN-return joint for dash/keypad, connected by one tunnel link.
+SP026-D	W026	3	C218	SP026	20	PROPOSED	1.553	QUALIFICATION REQUIRED	Dash CAN-return joint for dash/keypad, connected by one tunnel link.
+SP061-E1	W061	4	C095	B1/C	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine rear reference joint for crank and gear-position sensor, clear of exhaust.
+SP061-E1	W061	4	C102	B30/GN	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine rear reference joint for crank and gear-position sensor, clear of exhaust.
+SP061-E1	W061	4	C219	SP061	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine rear reference joint for crank and gear-position sensor, clear of exhaust.
+SP061-E1	W061	4	C220	SP061-E2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine rear reference joint for crank and gear-position sensor, clear of exhaust.
+SP061-E2	W061	4	C096	B2/A	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine reference joint serving stock cam and stock oil-pressure sensor.
+SP061-E2	W061	4	C097	B6/V+	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine reference joint serving stock cam and stock oil-pressure sensor.
+SP061-E2	W061	4	C220	SP061-E1	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine reference joint serving stock cam and stock oil-pressure sensor.
+SP061-E2	W061	4	C221	SP061-E3	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Engine reference joint serving stock cam and stock oil-pressure sensor.
+SP061-E3	W061	3	C100	M2/REF	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Chassis-side reference breakout for fuel-pressure sensor and rearward throttle branch; exact removable interface open.
+SP061-E3	W061	3	C101	B11/B	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Chassis-side reference breakout for fuel-pressure sensor and rearward throttle branch; exact removable interface open.
+SP061-E3	W061	3	C221	SP061-E2	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Chassis-side reference breakout for fuel-pressure sensor and rearward throttle branch; exact removable interface open.
+SP061-C1	W061	4	C098	B10/REF1	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch reference joint; retain two separate pedal reference conductors.
+SP061-C1	W061	4	C099	B10/REF2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch reference joint; retain two separate pedal reference conductors.
+SP061-C1	W061	4	C222	SP061	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch reference joint; retain two separate pedal reference conductors.
+SP061-C1	W061	4	C223	SP061-C2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch reference joint; retain two separate pedal reference conductors.
+SP061-C2	W061	3	C103	B31/3	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Control branch reference joint for TC selector and shift-knob electronics.
+SP061-C2	W061	3	C215	S50/1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Control branch reference joint for TC selector and shift-knob electronics.
+SP061-C2	W061	3	C223	SP061-C1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Control branch reference joint for TC selector and shift-knob electronics.
+SP062-C1	W062	4	C120	B10/RET1	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch return joint; keep both pedal return conductors distinct.
+SP062-C1	W062	4	C121	B10/RET2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch return joint; keep both pedal return conductors distinct.
+SP062-C1	W062	4	C224	SP062	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch return joint; keep both pedal return conductors distinct.
+SP062-C1	W062	4	C225	SP062-C2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Pedal branch return joint; keep both pedal return conductors distinct.
+SP062-C2	W062	3	C126	B31/1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Control branch return joint for TC selector and shift-knob electronics.
+SP062-C2	W062	3	C217	S50/3	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Control branch return joint for TC selector and shift-knob electronics.
+SP062-C2	W062	3	C225	SP062-C1	22	PROPOSED	0.977	QUALIFICATION REQUIRED	Control branch return joint for TC selector and shift-knob electronics.
+SP062-E1	W062	4	C114	B2/B	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed engine sensor group A: cam and intake-air branches; exact intake-air position open.
+SP062-E1	W062	4	C116	B5/2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed engine sensor group A: cam and intake-air branches; exact intake-air position open.
+SP062-E1	W062	4	C226	SP062	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed engine sensor group A: cam and intake-air branches; exact intake-air position open.
+SP062-E1	W062	4	C227	SP062-E2	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed engine sensor group A: cam and intake-air branches; exact intake-air position open.
+SP062-E2	W062	4	C115	B4/RET	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed coolant/fuel-pressure return breakout; chassis/engine removal boundary open.
+SP062-E2	W062	4	C124	B11/A	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed coolant/fuel-pressure return breakout; chassis/engine removal boundary open.
+SP062-E2	W062	4	C227	SP062-E1	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed coolant/fuel-pressure return breakout; chassis/engine removal boundary open.
+SP062-E2	W062	4	C228	SP062-E3	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Proposed coolant/fuel-pressure return breakout; chassis/engine removal boundary open.
+SP062-E3	W062	3	C118	B7/RET	22	PROPOSED	UNKNOWN	SIZE HOLD	Odd-bank knock/coil low-reference joint. Coil destination and actual donor return size remain held.
+SP062-E3	W062	3	C207	X111/E		HOLD	UNKNOWN	SIZE HOLD	Odd-bank knock/coil low-reference joint. Coil destination and actual donor return size remain held.
+SP062-E3	W062	3	C228	SP062-E2	22	PROPOSED	UNKNOWN	SIZE HOLD	Odd-bank knock/coil low-reference joint. Coil destination and actual donor return size remain held.
+SP062-E4	W062	4	C113	B1/B	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Rear sensor return joint for crank and transaxle gear-position sensor.
+SP062-E4	W062	4	C125	B30/BN	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Rear sensor return joint for crank and transaxle gear-position sensor.
+SP062-E4	W062	4	C229	SP062	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Rear sensor return joint for crank and transaxle gear-position sensor.
+SP062-E4	W062	4	C230	SP062-E5	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Rear sensor return joint for crank and transaxle gear-position sensor.
+SP062-E5	W062	4	C117	B6/RET	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Return joint for rearward throttle and stock valley oil-pressure sensor.
+SP062-E5	W062	4	C122	M2/RET	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Return joint for rearward throttle and stock valley oil-pressure sensor.
+SP062-E5	W062	4	C230	SP062-E4	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Return joint for rearward throttle and stock valley oil-pressure sensor.
+SP062-E5	W062	4	C231	SP062-E6	22	PROPOSED	1.302	QUALIFICATION REQUIRED	Return joint for rearward throttle and stock valley oil-pressure sensor.
+SP062-E6	W062	3	C119	B8/RET	22	PROPOSED	UNKNOWN	SIZE HOLD	Even-bank knock/coil low-reference joint. Coil destination and actual donor return size remain held.
+SP062-E6	W062	3	C210	X113/E		HOLD	UNKNOWN	SIZE HOLD	Even-bank knock/coil low-reference joint. Coil destination and actual donor return size remain held.
+SP062-E6	W062	3	C231	SP062-E5	22	PROPOSED	UNKNOWN	SIZE HOLD	Even-bank knock/coil low-reference joint. Coil destination and actual donor return size remain held.
