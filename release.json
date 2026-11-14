@@ -1,6 +1,6 @@
 {
   "revision": "J",
-  "release_id": "2026-11-13-3",
+  "release_id": "2026-11-13-4",
   "release_date": "2026-11-13",
   "engineering_design_date": "2026-11-13",
   "audience": "public",
@@ -32,9 +32,9 @@
       "sha256": "4ed0a448ca11581df50feda6c8cc93957cd16dcee100d3f3374ed5fb3bb4384e"
     },
     {
-      "name": "Race_Car_Current_Project_RevJ_2026-11-13-3.zip",
-      "bytes": 24841790,
-      "sha256": "6e898ef437f7c2cdcbe45d3e99ed838af3dab92eccf62815a34c4548fa04be76"
+      "name": "Race_Car_Current_Project_RevJ_2026-11-13-4.zip",
+      "bytes": 24843207,
+      "sha256": "4065828fcb7b483355fc6fbf850feb6ff9a897d256fcf305c3b23871f4e8a169"
     },
     {
       "name": "Race_Car_RevJ.pdf",
@@ -53,13 +53,13 @@
     },
     {
       "name": "Race_Car_RevJ_Interactive.html",
-      "bytes": 19227361,
-      "sha256": "d3b00088e5fd545bdf0ff655eac12525d5f8f74b5359e54b181e5fb731c3d1ae"
+      "bytes": 19228379,
+      "sha256": "528b7beb5c6d2405c9a7f5e73e45342a8d93fad26fdc21408df347e05cafd993"
     },
     {
       "name": "Race_Car_RevJ_Interactive_Viewer.zip",
-      "bytes": 1774239,
-      "sha256": "b06e39b64ce0663b1a2c21690e3cf271e9b90845b633b6987be26ae8a073c0cc"
+      "bytes": 1774674,
+      "sha256": "4c2950c458f759356d094cef2f0d21634c71d804060833a8afa2b1def591ae1d"
     },
     {
       "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
