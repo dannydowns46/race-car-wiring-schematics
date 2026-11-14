@@ -1,75 +1,83 @@
 {
   "revision": "J",
-  "release_id": "2026-10-27",
-  "release_date": "2026-10-27",
-  "engineering_design_date": "2026-10-27",
+  "release_id": "2026-11-13",
+  "release_date": "2026-11-13",
+  "engineering_design_date": "2026-11-13",
   "audience": "public",
   "counts": {
     "sheets": 19,
     "components": 96,
     "nets": 116,
-    "full_paths": 287,
-    "power_paths": 145
+    "full_paths": 301,
+    "power_paths": 146
   },
   "changes": [
-    "U3 Cole Hersee24059 and local D60 suppression",
-    "S50 HT-010504 TC level selector on R3 C5/SPI1; pull-up OFF; S2 remains removed"
+    "Haltech R3/PD16 flying-lead tags and filters",
+    "172 separate gauge annotations; actual materials remain unverified",
+    "Four-total-end custom joints with 14 explicit linking conductors; original electrical nets retained",
+    "Owner CAD walkthrough component locations and proposed tunnel/branch routes; no measured cuts",
+    "Three power splice groups require larger qualified tooling than budget 6mm2 envelope"
   ],
   "files": [
     {
       "name": "Existing_Loom_And_Cable_Paths.tsv",
-      "bytes": 31929,
-      "sha256": "9d294248b6bc460fac6303aa59ef1a34004dff35c45338fbb4781581959cc171"
+      "bytes": 43463,
+      "sha256": "d0f3d820603af84ec9cf2bac2c8b5e9807125b50f35dfeb7691533644cf1bb0e"
     },
     {
       "name": "Other_Connection_References.tsv",
-      "bytes": 6122,
-      "sha256": "f33d8efbce842b518964912608dca8dc27c0aa20d57d73f78f432787bce6ef13"
+      "bytes": 9019,
+      "sha256": "4ed0a448ca11581df50feda6c8cc93957cd16dcee100d3f3374ed5fb3bb4384e"
     },
     {
-      "name": "Race_Car_Current_Project_RevJ_2026-10-27.zip",
-      "bytes": 24074719,
-      "sha256": "24fd3c11d37280eaf95f39d77695eec631e1bf1add81fac788f5be388e319c65"
+      "name": "Race_Car_Current_Project_RevJ_2026-11-13.zip",
+      "bytes": 24534503,
+      "sha256": "ca58daf0d1b6fd7bdfc1692924a4c36bd5599ce6b823488902a041b1a110fa0d"
     },
     {
       "name": "Race_Car_RevJ.pdf",
       "bytes": 3191903,
-      "sha256": "b7f1ef5f931e273a4ad42db95dde2e38cffc9018a50851b1537519da2380cf92"
+      "sha256": "e7d3dd0d5ede01c0d651e62cb2204db5d41f25a21ffa7d5612a7c11ae7241c10"
     },
     {
       "name": "Race_Car_RevJ_Continuous_Wiring.pdf",
-      "bytes": 145960,
-      "sha256": "909e73fe714d1c318d44f97ae426483e69d3d5e74ba043063a4bdd0d9637d5e6"
+      "bytes": 155310,
+      "sha256": "e72337b120fa51ad1e1d9a6b225fdeade49142c3ac2fe08f47915a379611b4b2"
     },
     {
       "name": "Race_Car_RevJ_Flagged.pdf",
       "bytes": 3191903,
-      "sha256": "b7f1ef5f931e273a4ad42db95dde2e38cffc9018a50851b1537519da2380cf92"
+      "sha256": "e7d3dd0d5ede01c0d651e62cb2204db5d41f25a21ffa7d5612a7c11ae7241c10"
     },
     {
       "name": "Race_Car_RevJ_Interactive.html",
-      "bytes": 15814656,
-      "sha256": "a7d55a1c15571b94abb7e1c668c94d75be67e6fd95a501551ac19404d7588d6b"
+      "bytes": 18133047,
+      "sha256": "fca09118c1fc7f74965e80c5a41b57818b8aa2ff3891221e45834dd9c8b31a88"
     },
     {
       "name": "Race_Car_RevJ_Interactive_Viewer.zip",
-      "bytes": 1438060,
-      "sha256": "e335cf409397ec9f0cdb14329191db2d90686cb7090455876026ca94928b7b76"
+      "bytes": 1646727,
+      "sha256": "d5f9aefc8e13335c2c68a0cd9a0079fd47532a7c5fc2aa56da7e69b3fa7de1ca"
     },
     {
       "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
-      "bytes": 71249,
-      "sha256": "2cfd518e2513bb08dd0f0d8efb304422281f9f62c4632fdf473d208719a9b369"
+      "bytes": 73434,
+      "sha256": "840f0fd89129c5f6d054dafb293bdd14b99cbf5d0cbcaa6e4dab9c26f8268266"
+    },
+    {
+      "name": "Splice_Connections.tsv",
+      "bytes": 18969,
+      "sha256": "71b358072426e12d8f98b19df3423055af1ac70983a050861f36a494f9d312b9"
     },
     {
       "name": "Supplied_Leads_To_Finish.tsv",
-      "bytes": 38414,
-      "sha256": "032a2425204f6f0af1bb974063c54def193156be83c5bbaad1bb2e211291a964"
+      "bytes": 56494,
+      "sha256": "3d20a3fd848fcc10bc66362c3738cfac8ce0fd989ef546bca0803e7d752738b6"
     },
     {
       "name": "Wires_To_Provide.tsv",
-      "bytes": 32416,
-      "sha256": "9b6fca371c1cdfdf2ef6ecc5b07b5e2396308308c4325debc3ed2d28f27aa67c"
+      "bytes": 62102,
+      "sha256": "9be3e76cfcb43e2d1f4da0796d3bda2b7fe7a17b1a25d5055fd40a52304ec23f"
     }
   ],
   "verification": "Current native/physical/viewer validators passed; package CRC and per-file SHA256 checked. Hardware/NSP tests remain open."
