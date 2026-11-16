@@ -1,19 +1,20 @@
 {
   "revision": "J",
-  "release_id": "2026-11-13-4",
-  "release_date": "2026-11-13",
-  "engineering_design_date": "2026-11-13",
+  "release_id": "2026-11-15",
+  "release_date": "2026-11-15",
+  "engineering_design_date": "2026-11-15",
   "audience": "public",
   "counts": {
     "sheets": 19,
-    "components": 96,
+    "components": 95,
     "nets": 116,
-    "full_paths": 301,
-    "power_paths": 146
+    "full_paths": 299,
+    "power_paths": 144
   },
   "changes": [
+    "External D60 starter coil diode and local leads C213/C214 removed per owner; four U3 connections retained",
     "Birds-eye vehicle layout with selectable main tunnel trunk and12 loom groups; circuit layout retained",
-    "Same301 physical records and116 native nets in both layouts",
+    "Same299 physical records and116 native nets in both layouts",
     "Haltech R3/PD16 flying-lead tags and filters",
     "172 separate gauge annotations; actual materials remain unverified",
     "Four-total-end custom joints with 14 explicit linking conductors; original electrical nets retained",
@@ -32,39 +33,39 @@
       "sha256": "4ed0a448ca11581df50feda6c8cc93957cd16dcee100d3f3374ed5fb3bb4384e"
     },
     {
-      "name": "Race_Car_Current_Project_RevJ_2026-11-13-4.zip",
-      "bytes": 24843207,
-      "sha256": "4065828fcb7b483355fc6fbf850feb6ff9a897d256fcf305c3b23871f4e8a169"
+      "name": "Race_Car_Current_Project_RevJ_2026-11-15.zip",
+      "bytes": 24786770,
+      "sha256": "499ee320cb65bbb5a3b6855f837c8f73c31cacd7b19b95c5211d06c2570a2f10"
     },
     {
       "name": "Race_Car_RevJ.pdf",
-      "bytes": 3191903,
-      "sha256": "29dad176ee26a285cf92834237572adf4bc4b039e4bf3abc1634c9a91dbfa026"
+      "bytes": 3180928,
+      "sha256": "3924d92a740aef0852dbabedf738fb6cb66987c58a79d058065c902388910322"
     },
     {
       "name": "Race_Car_RevJ_Continuous_Wiring.pdf",
-      "bytes": 155341,
-      "sha256": "b95f9eaaa3562cf1dc7a450f1529c0bcba17c1f2e12e4d33f4e7990e0ff6dc73"
+      "bytes": 153905,
+      "sha256": "88fb155dec1c2de7bad42d529f7f19c244dfd887aefd9cdf7999d9a4ec89be82"
     },
     {
       "name": "Race_Car_RevJ_Flagged.pdf",
-      "bytes": 3191903,
-      "sha256": "29dad176ee26a285cf92834237572adf4bc4b039e4bf3abc1634c9a91dbfa026"
+      "bytes": 3180928,
+      "sha256": "3924d92a740aef0852dbabedf738fb6cb66987c58a79d058065c902388910322"
     },
     {
       "name": "Race_Car_RevJ_Interactive.html",
-      "bytes": 19228379,
-      "sha256": "528b7beb5c6d2405c9a7f5e73e45342a8d93fad26fdc21408df347e05cafd993"
+      "bytes": 19069796,
+      "sha256": "6323c2ec75fba1eb404ee61113ce36f73a67a16d961b57225bdbdfdeb26bd461"
     },
     {
       "name": "Race_Car_RevJ_Interactive_Viewer.zip",
-      "bytes": 1774674,
-      "sha256": "4c2950c458f759356d094cef2f0d21634c71d804060833a8afa2b1def591ae1d"
+      "bytes": 1759739,
+      "sha256": "eaf05c09ab357c39e18f070f535b6aafaf977eeb7dc4bbadbd4fdf7f9ef18514"
     },
     {
       "name": "Race_Car_RevJ_Power_Only_Physical_Wiring.pdf",
-      "bytes": 73412,
-      "sha256": "44f3b932bec40a9104675925a4b420edddc24005ae6bfe76f6303adfa2ff62d1"
+      "bytes": 72147,
+      "sha256": "b9060026464671fab7200f21000d93d98d15d84e46f0f4592f0ad01e3c476f7c"
     },
     {
       "name": "Splice_Connections.tsv",
@@ -73,13 +74,13 @@
     },
     {
       "name": "Supplied_Leads_To_Finish.tsv",
-      "bytes": 56494,
-      "sha256": "3d20a3fd848fcc10bc66362c3738cfac8ce0fd989ef546bca0803e7d752738b6"
+      "bytes": 55312,
+      "sha256": "499118de7c09c2b31e1172b04aa45b7e889c03c55ee54ff3daed4d245a8299d5"
     },
     {
       "name": "Wires_To_Provide.tsv",
-      "bytes": 62102,
-      "sha256": "9be3e76cfcb43e2d1f4da0796d3bda2b7fe7a17b1a25d5055fd40a52304ec23f"
+      "bytes": 62074,
+      "sha256": "7b328e1622080bde29e099e17cd4b7693ffee138299b807200f41b094debab79"
     }
   ],
   "verification": "Current native/physical/viewer validators passed; package CRC and per-file SHA256 checked. Hardware/NSP tests remain open."
